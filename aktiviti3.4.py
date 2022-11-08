@@ -8,10 +8,6 @@
 @Date        : 8/11/2022 17:20
 """
 
-terus = True
-
-while terus:
-
 print('Jawab soalan berikut.\n')
 
 # soalan 1
